@@ -1,0 +1,47 @@
+/* Text Field Styling */
+.jfx-text-field {
+    -jfx-focus-color: #5a34cf;
+    -jfx-unfocus-color: #12019d;
+    -jfx-label-float: true;
+}
+
+.jfx-text-field .error-label {
+    -fx-text-fill: #D34336;
+    -fx-font-family: "Roboto";
+    -fx-font-size: 14;
+}
+
+.text-field {
+    -fx-prompt-text-fill: #12019d;
+    -fx-text-fill: #12019d;
+    -fx-font-family: "Roboto Medium";
+    -fx-font-size: 18;
+}
+
+/* Combo Box Styling */
+.combo-box {
+	-fx-font-family: "Roboto Medium";
+	-fx-font-size: 18;
+	-fx-text-fill: #12019d;
+}
+
+.jfx-combo-box {
+	-jfx-focus-color: #5a34cf;
+    -jfx-unfocus-color: #12019d;
+    -jfx-label-float: true;
+    -fx-text-fill: #12019d;
+    -fx-prompt-text-fill: #12019d;
+}
+
+.jfx-combo-box .label {
+	-fx-text-fill: #12019d;
+}
+
+/* Button Styling */
+.jfx-button {
+     -jfx-button-type: RAISED;
+     -fx-background-color: #12019d;
+     -fx-font-family: "Roboto Black";
+     -fx-text-fill: white;
+     -fx-font-size: 24px;
+}
