@@ -1,4 +1,4 @@
-<project basedir="." name="ICS4UC_Unit2">
+<project basedir="." name="Portfolio_Java">
 
 	<property name="build.dir" value="build" />
 	<property name="src.dir" value="src" />
