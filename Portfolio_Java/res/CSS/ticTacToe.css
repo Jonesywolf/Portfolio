@@ -1,8 +1,0 @@
-/* Button Styling */
-.jfx-button {
-     -jfx-button-type: FLAT;
-     -fx-background-color: #5e4c3a;
-     -fx-font-family: "Roboto Bold";
-     -fx-text-fill: #faf8ef;
-     -fx-font-size: 24px;
-}
