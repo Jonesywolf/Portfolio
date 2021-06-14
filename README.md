@@ -98,7 +98,7 @@ public int[] findBestMove(char board[][], boolean isAIPlayerX) {
 
 This is a game of chance where the user bets points on whether the dice will be above or below the most common roll for a given number of six-sided dice. For example, the most common roll for 2 dice is 7 so the user can bet whether the roll will be above or below 7, if they guess right, their betted points are doubled, if they guess wrong or the roll is a 7, they lose the betted points.
 
-Getting 3D dice to work in JavaFX was quite tedious and required a thrid party library to get the mesh setup. To simulate the rolling animation, the camera's coordinates for the  ending face of the die roll along with some random points along the way yeild a biut of an unconvincing animation, but I learned a lot implementing it:
+Getting 3D dice to work in JavaFX was quite tedious and required a third party library to get the mesh setup. To simulate the rolling animation, the camera's coordinates for the  ending face of the die roll along with some random points along the way yeild a biut of an unconvincing animation, but I learned a lot implementing it:
 
 ``` Java
 /**
